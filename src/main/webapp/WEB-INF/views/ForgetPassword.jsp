@@ -217,7 +217,7 @@
    
    <body>
       <div class="container">
-         <header>Login</header>
+         <header>Forget Password</header>
          <form action="sendOtp" method="post">
             <div class="input-field">
                <input type="text" name="email" required>

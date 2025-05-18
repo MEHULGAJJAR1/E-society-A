@@ -71,7 +71,7 @@ public class SessionController {
  * if(profilePic.getOriginalFilename().endsWith(".png")) {
  * 
  * }else { return "Signup"; }
- */
+ */   
 		
 		try {
 			
